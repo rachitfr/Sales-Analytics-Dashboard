@@ -1,2 +1,4 @@
 # Sales-Analytics-Dashboard
 Sales Dashboard created using Power BI to track revenue, profit, sales trends, and regional performance. The dashboard converts raw sales data into clear visual insights, helping stakeholders monitor KPIs, compare categories, identify growth opportunities, and support data-driven business decisions.
+This Sales Dashboard project focuses on analyzing sales performance through interactive Power BI visuals. It presents key metrics such as total sales, profit, quantity sold, and trends over time, allowing quick evaluation of overall business performance.
+The dashboard provides insights by region, category, and customer segments, helping identify high-performing areas and potential gaps. This project demonstrates practical skills in data cleaning, KPI creation, and visual storytelling, making it suitable for showcasing analytical and business intelligence capabilities.
